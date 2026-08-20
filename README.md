@@ -24,3 +24,6 @@ pip install numpy matplotlib
 ## Fisica Computacional 1
 ### Trabalho 1 
 ### Trabalho 2
+### Trabalho 3
+### Trabalho 4
+### Trabalho 5
