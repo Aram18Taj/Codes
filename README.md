@@ -20,3 +20,7 @@ Para rodar o simulador no seu computador, você precisará ter o Python instalad
 Você pode instalá-las rodando o comando abaixo no terminal ou prompt de comando:
 ```bash
 pip install numpy matplotlib
+```
+## Fisica Computacional 1
+### Trabalho 1 
+### Trabalho 2
