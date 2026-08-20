@@ -25,7 +25,7 @@ pip install numpy matplotlib
 
 Bem-vindo(a) à minha pasta de projetos da disciplina de **Física Computacional 1**, cursada na Universidade Federal de São Carlos (UFSCar). 
 
-Este repositório contém as implementações em Python de diversos métodos numéricos e simulações físicas desenvolvidas ao longo do semestre. O objetivo dos códigos é resolver problemas analíticos complexos através de aproximações computacionais.
+Este repositório contém as implementações em Python de diversos métodos numéricos e simulações físicas desenvolvidas ao longo do semestre.
 
 ---
 
